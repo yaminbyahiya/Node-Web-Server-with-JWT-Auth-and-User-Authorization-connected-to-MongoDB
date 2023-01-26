@@ -17,3 +17,11 @@
 20230123	03:02:19	1d6660fb-0937-434f-87e8-62ac08219967	GET	undefined	/employees
 20230123	03:02:55	0b1d4760-1b5f-4d5d-9651-a17ac1e32b44	POST	undefined	/auth
 20230123	03:03:30	85659229-ca5e-4ca8-b611-ac3713a6b27c	POST	undefined	/employees
+20230126	17:19:13	f22a53eb-1ab9-4477-a105-dc486b71ae54	POST	undefined	/refresh
+20230126	17:19:20	36772aa1-484a-4fd0-8857-6106c11c1448	POST	undefined	/refresh
+20230126	17:19:21	d584ab51-66af-4cbd-8dc5-00e279bf4fec	POST	undefined	/refresh
+20230126	17:19:21	b4f7461f-d7a2-4f0e-bb7b-9831d6a95f89	POST	undefined	/refresh
+20230126	17:19:22	64b1fbfa-8469-496b-b463-a774f3dd3514	POST	undefined	/refresh
+20230126	17:19:23	baf103be-6255-43c9-aab2-3c2a4b9a1da7	POST	undefined	/refresh
+20230126	17:19:27	90f2e974-2f44-4e27-ad38-020fc528be86	POST	undefined	/register
+20230126	17:19:34	12c83702-8562-4e9d-9087-05f01cc2515c	POST	undefined	/register
