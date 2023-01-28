@@ -25,3 +25,6 @@
 20230126	17:19:23	baf103be-6255-43c9-aab2-3c2a4b9a1da7	POST	undefined	/refresh
 20230126	17:19:27	90f2e974-2f44-4e27-ad38-020fc528be86	POST	undefined	/register
 20230126	17:19:34	12c83702-8562-4e9d-9087-05f01cc2515c	POST	undefined	/register
+20230128	06:29:30	60f33d92-29fe-4d91-9899-4148338c9914	POST	undefined	/register
+20230128	06:29:49	9ba21bb6-fcc9-457d-bd40-8e9a7ada6c28	POST	undefined	/register
+20230128	06:30:35	cc25cce0-c756-4e1d-b0bd-31e3bc8ddd7f	POST	undefined	/auth
